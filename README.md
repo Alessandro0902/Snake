@@ -18,4 +18,4 @@ Versions 1.0
 ## Auteurs
 HOSPICE Lucas , DELL'OSO Alessandro 
 
-@amaurylnt @lucashospice
+@lucashospice
