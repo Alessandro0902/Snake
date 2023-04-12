@@ -13,9 +13,9 @@ N'hésitez pas a clone le projet.
 Une fois les prérequis installer et le projet cloné:\
 Lancer le projet avec live server en bas doite
 
-Versions 1.0 \
+Versions 1.0 
 
 ## Auteurs
-HOSPICE Lucas , DELL'OSO Alessandro \
+HOSPICE Lucas , DELL'OSO Alessandro 
 
 @amaurylnt @lucashospice
